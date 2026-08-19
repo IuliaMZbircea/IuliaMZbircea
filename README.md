@@ -6,12 +6,12 @@ Two different worlds, kept deliberately separate - one brain, two obsessions:
 
 ```mermaid
 graph LR
-    ME(("🧠 me"))
-    ME -- "by day" --> CX["💬 Siena AI<br/>empathic AI agents for customer experience"]
-    ME -- "by night*" --> MED["🩺 medical AI research<br/>imaging · clinical LLMs"]
-    CX --> SHIP["⚙️ LLM systems in production"]
-    MED --> SCI["🔬 models clinicians can trust"]
-    SHIP --> GOAL(("✨ software that<br/>actually helps humans"))
+    ME(("me"))
+    ME -- "by day" --> CX["Siena AI<br/>empathic AI agents for customer experience"]
+    ME -- "by night*" --> MED["medical AI research<br/>imaging · clinical LLMs"]
+    CX --> SHIP["LLM systems in production"]
+    MED --> SCI["models clinicians can trust"]
+    SHIP --> GOAL(("software that<br/>actually helps humans"))
     SCI --> GOAL
 ```
 
@@ -19,11 +19,11 @@ graph LR
 
 ## The map
 
-|  | 💼 Day job | 🔬 Research life |
+|  | Day job | Research life |
 |---|---|---|
 | **Where** | [Siena AI](https://www.siena.cx) - autonomous CX for commerce | thesis work & my own repos |
 | **What** | AI agents talking to real customers, at scale | deep learning for medical imaging · clinical LLM evaluation |
-| **Code** | separate work account - iuliazb 🤫 | everything you see here |
+| **Code** | separate work account - iuliazb | everything you see here |
 
 ## 🔬 Research & side quests
 
