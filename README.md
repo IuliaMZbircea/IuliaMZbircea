@@ -1,6 +1,6 @@
 # Hi, I'm Iulia 👋
 
-Software engineer at **[Siena AI](https://www.siena.cx)**, building at the intersection of **medicine and machine learning** — from deep-learning pipelines for medical imaging to clinical tools people actually use.
+Software engineer at **[Siena AI](https://www.siena.cx)**, where I build empathic AI agents for customer experience. Off the clock, I research at the intersection of **medicine and machine learning** — from deep-learning pipelines for medical imaging to clinical tools people actually use.
 
 Two different worlds, kept deliberately separate — one brain, two obsessions:
 
