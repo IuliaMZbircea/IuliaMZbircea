@@ -17,26 +17,26 @@ graph LR
 
 <sub>\* and weekends, and any suspiciously quiet afternoon</sub>
 
-## 🗺️ The map
+## The map
 
 |  | 💼 Day job | 🔬 Research life |
 |---|---|---|
 | **Where** | [Siena AI](https://www.siena.cx) - autonomous CX for commerce | thesis work & my own repos |
 | **What** | AI agents talking to real customers, at scale | deep learning for medical imaging · clinical LLM evaluation |
-| **Code** | separate work account 🤫 | everything you see here |
+| **Code** | separate work account - iuliazb 🤫 | everything you see here |
 
 ## 🔬 Research & side quests
 
-- 🫀 **[LUCID](https://github.com/IuliaMZbircea/LUCID-Platform)** *(MSc thesis)* - automated carotid intima-media thickness (CIMT) measurement from ultrasound, using deep learning with uncertainty estimation
-- ❤️ **[CardioInsight](https://github.com/IuliaMZbircea/CardioInsightApp)** *(BSc thesis)* - cardiology insights mobile app, React Native + Python
-- 🧪 **[medevalkit](https://github.com/IuliaMZbircea/medevalkit)** - a two-agent evaluation harness for clinical LLMs - the one repo where my two worlds collide
-- 📡 **[HeartSync](https://github.com/IuliaMZbircea/HeartSync)** - real-time patient monitoring platform with wearable integration
-- 🦷 **[Dentix](https://github.com/IuliaMZbircea/Dentix)** - patient-record management for dental clinics
+- **[LUCID](https://github.com/IuliaMZbircea/LUCID-Platform)** *(MSc thesis)* - automated carotid intima-media thickness (CIMT) measurement from ultrasound, using deep learning with uncertainty estimation
+- **[CardioInsight](https://github.com/IuliaMZbircea/CardioInsightApp)** *(BSc thesis)* - cardiology insights mobile app, React Native + Python
+- **[medevalkit](https://github.com/IuliaMZbircea/medevalkit)** - a two-agent evaluation harness for clinical LLMs - the one repo where my two worlds collide
+- **[HeartSync](https://github.com/IuliaMZbircea/HeartSync)** - real-time patient monitoring platform with wearable integration
+- **[Dentix](https://github.com/IuliaMZbircea/Dentix)** - patient-record management for dental clinics
 
-## 🧰 Tech
+## Tech
 
 `Python` · `PyTorch` · `TypeScript` · `React / React Native` · `Node.js` · `Docker`
 
-## 📬 Get in touch
+## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/iulia-maria-zbircea/) - say hi 👋
